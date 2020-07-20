@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Pesquisa CB</title>
+    <link rel="stylesheet" href="style.css">
+
+    <script src="js/jquery.min.js"></script>
+    <script src="js/jquery.mask.min.js"></script>
+    <script type="text/javascript">
+        $(document).ready(function(){
+            $("#valor").mask("999.999.999,00", {reverse: true}),
+            $("#data").mask("99/99/9999"),
+            $("autenticacao").mask("00000")
+        })
+    </script>
+
+</head>
+<body>
+    
+    <div class="container">
+        <h2>Pesquisa de CB</h2>
+        <form method="GET" action="resultado.php">
+            <div class="row100">
+                <div class="col">
+                    <div class="inputBox">
+                        <input type="text" required="required" id="valor" name="valor">
+                        <span class="text">Valor $</span>
+                        <span class="line"></span>
+                    </div>
+                </div>
+                <div class="col">
+                    <div class="inputBox">
+                        <input type="text" required="required" id="data" name="data">
+                        <span class="text">Data</span>
+                        <span class="line"></span>
+                    </div>
+                </div>
+                <div class="col">
+                    <div class="inputBox">
+                        <input type="text" required="required" id="autenticacao" maxlength="6" name="aut">
+                        <span class="text">Autenticação</span>
+                        <span class="line"></span>
+                    </div>
+                </div>
+            </div>
+            <div class="row100">
+                <div class="col">
+                    <input type="submit" value="Buscar">
+                </div>
+            </div>
+        </form>
+        <h3>Copyryght © Bruno mendonça / Diego henrique - 2020</h3>
+    </div>
+    
+
+</body>
+</html>
