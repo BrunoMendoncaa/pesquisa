@@ -7,22 +7,22 @@ o tempo utilizado, gerando um resultado mais limpo e de maneira mais rapida.
 
 ### Desenvolvedores (Equipe INOVE+)
 
-´BRUNO MENDONÇA´.
+`BRUNO MENDONÇA`.
 
 Linkedin: https://www.linkedin.com/in/bruno-mendon%C3%A7a-23384119a/
 
-´DIEGO HENRIQUE´.
+`DIEGO HENRIQUE`.
 
 Linkedin: https://www.linkedin.com/in/diego-henrique-reports/
 
 
 ### Ferramentas
 
-* ´HTML5´
-* ´CSS3´
-* ´JAVASCRIPT´
-* ´PHP´
-* ´HTML´
+* `HTML5`
+* `CSS3`
+* `JAVASCRIPT`
+* `PHP`
+* `HTML`
 
 
 
