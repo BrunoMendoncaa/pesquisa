@@ -5,15 +5,15 @@ Sistema elaborado para facilitar a pesquisa de titulos feita por analistas da ar
 o projeto tem como meta reduzir em ate 99% o tempo gasto atualmente para pesquisar de forma manual
 os mesmos.
 
-#DESENVOLVEDORES
+# DESENVOLVEDORES
 
-*Bruno Mendonça*
-LINKEDIN: https://www.linkedin.com/in/bruno-mendon%C3%A7a-23384119a/
+Bruno Mendonça
+Linkedin: https://www.linkedin.com/in/bruno-mendon%C3%A7a-23384119a/
 
-*Diego Henrique*
-LINKEDIN: https://www.linkedin.com/in/diego-henrique-reports/
+Diego Henrique
+Linkedin: https://www.linkedin.com/in/diego-henrique-reports/
 
-#FERRAMENTAS
+# FERRAMENTAS
 
 - HTML5
 - CSS3
